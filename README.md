@@ -1,9 +1,7 @@
 # SQL_Project_Hub_Store_Analysis
-SQL project to analyze online music store data
+SQL project to analyze online music hub data
 
 Successfully executed a beginner-level SQL data analysis project on a music playlist database, deriving actionable insights to evaluate business growth and customer trends.
-
-> Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswMKM
 
 ## Database and Tools
 * Postgre SQL
